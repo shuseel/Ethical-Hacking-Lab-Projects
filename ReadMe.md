@@ -5,15 +5,15 @@ This repository is dedicated to providing step-by-step lab exercises and documen
 
 The concepts, tools, and techniques demonstrated in these labs are intended to be practiced in **controlled, permissioned environments** (e.g., local virtual machines, dedicated training platforms like Cisco's Networking Academy, TryHackMe/Hack The Box, or personal test networks).
 
-* DO NOT use any information, code, or techniques from this repository to target or compromise any system, network, or application that you do not explicitly own or have written, for which you do not have legal permission to test.
+* Please don't use any information, code, or techniques from this repository to target or compromise any system, network, or application that you do not explicitly own or have written, for which you do not have legal permission to test.
 
-* Unauthorized access is illegal. We strongly condemn any illegal or malicious activity. The creator and contributors of this repository are not responsible for any misuse of the information provided herein.
+* Unauthorized access is illegal. We strongly condemn any illegal or malicious activity. The creator and contributors of this repository are not responsible for any misuse of the information I've included here.
 
 * Always adhere to the Cyber Law and Rules of Engagement (ROE) in your respective jurisdiction.
 
 **By cloning or using this repository, you agree to these terms.**
 
-## Phase 1: Pre-Engagement Activities
+## [Phase 1: Pre-Engagement Activities](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-1-Pre-Engagement-Activities/ReadMe.md)
 ### Project 1: Creating Penetration Testing Agreement
 
 A "Penetration Testing Agreement" is a contract that allows ethical hackers to test systems while keeping everyone protected. Basically, it tells what can be tested, when to do it, how to do it, and what to do with penetration testing.
