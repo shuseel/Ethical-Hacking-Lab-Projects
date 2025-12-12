@@ -37,7 +37,7 @@ Objective: Map the target's network topology and identify live hosts.
 
 
 ### **License**
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/main/License.md) file for details.
 
 ### **Contact & Support**
 If you have questions, suggestions, or need clarification on a lab, please open an Issue in this repository.
