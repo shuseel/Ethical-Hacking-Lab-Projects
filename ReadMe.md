@@ -14,8 +14,21 @@ The concepts, tools, and techniques demonstrated in these labs are intended to b
 **By cloning or using this repository, you agree to these terms.**
 
 ## Phase 1: Pre-Engagement Activities
+### Project 1: Creating Penetration Testing Agreement
 
-sample_pentest_agreement: A comprehensive template for a Penetration Testing Agreement (SOW/ROE).
+A "Penetration Testing Agreement" is a contract that allows ethical hackers to test systems while keeping everyone protected. Basically, it tells what can be tested, when to do it, how to do it, and what to do with penetration testing.
+
+This project showed that cybersecurity is not the same as just finding problems—it's about finding them in the right and professional way.
+
+**sample_pentest_agreement:** [A Sample Penetration Testing Agreement](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/main/Sample-Penetration-Testing-Agreement-Shuseel.docx.pdf)
+
+**What I learned:**
+- As per cybersecurity requirements, legal frameworks are equally important regarding technical skills.
+- Clear communication prevents further misunderstandings during security assessments. 
+- Proper documentation itself protects both clients and security professionals.
+- Researchers must surely set clear ethical limits before they start any testing work. 
+- These boundaries should be established properly to ensure responsible research practices.
+
 
 ## Phase 2: Reconnaissance & Information Gathering
 
