@@ -1,35 +1,37 @@
-# A Comprehensive Collection of Hands-on Ethical Hacking and Penetration Testing Labs
-This repository is dedicated to providing step-by-step lab exercises and documentation for the entire lifecycle of ethical hacking and penetration testing.  It functions as both a personal portfolio and an instructional resource for learning the tools, methodologies, and critical thinking skills required to become a successful cybersecurity expert.
-## IMPORTANT: Ethical & Legal Disclaimer
-**This repository and its contents are strictly for educational and self-improvement purposes only.**
+# Phase 2: Reconnaissance & Information Gathering
 
-The concepts, tools, and techniques demonstrated in these labs are intended to be practiced in **controlled, permissioned environments** (e.g., local virtual machines, dedicated training platforms like Cisco's Networking Academy, TryHackMe/Hack The Box, or personal test networks).
+## Project 1: Performing Passive Reconnaissance
 
-* DO NOT use any information, code, or techniques from this repository to target or compromise any system, network, or application that you do not explicitly own or have written, for which you do not have legal permission to test.
+An information-gathering technique known as "passive reconnaissance" involves the tools not interacting directly with the target device or network.
 
-* Unauthorized access is illegal. We strongly condemn any illegal or malicious activity. The creator and contributors of this repository are not responsible for any misuse of the information provided herein.
+**Lab 1: Using USINT Tools**
 
-* Always adhere to the Cyber Law and Rules of Engagement (ROE) in your respective jurisdiction.
+In this lab, I have explored several OSINT tools that are commonly used by pentesters. This includes the following:
+* Examining the different OSINT resources
+* Using SpiderFoot
+* Investigating with Recon-ng
+* Finding interesting files with Recon-ng
 
-**By cloning or using this repository, you agree to these terms.**
+**Lab Documentation:** [Lab 1: Using USINT Tools](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Lab%20-%20Using%20OSINT%20Tools.pdf) 
 
-## Phase 1: Pre-Engagement Activities
+## Project 2: Performing Active Reconnaissance
 
-sample_pentest_agreement: A comprehensive template for a Penetration Testing Agreement (SOW/ROE).
+**Active reconnaissance** is a technique for obtaining information in which the instruments employed actually send enquiries to the target network or systems to elicit responses that are subsequently utilised to ascertain the network or system's condition.
 
-## Phase 2: Reconnaissance & Information Gathering
+**Lab 1: Enumeration with Nmap**
 
-### Project 1: Performing Passive Reconnaissance
+In this lab, I have learned the different types of Nmap scans and done a basic Nmap scan.
 
-Tools Used: Google Dorks, Shodan, WHOIS, Maltego (open-source intelligence).
+**Lab 2: Packet Crafting with Scrapy**
 
-Objective: Gather non-intrusive information without direct interaction.
+In this lab, I have learned how to investigate with the scapy tool, used scapy to sniff network traffic, create and send ICMP packets, and create and send TCP SYN packets.
 
-### Project 2: Performing Active Reconnaissance
+**Lab 3: Network Sniffing with Wireshark**
 
-Tools Used: Nmap, DNS enumeration tools (e.g., dig, nslookup).
+In this lab, I have learned how to prepare the host to capture network traffic, capture and save network traffic, and view and analyze packet capture.
 
-Objective: Map the target's network topology and identify live hosts.
+**Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
+
 
 
 
