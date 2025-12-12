@@ -1,2 +1,0 @@
-# Lab - Using OSINT Tools
-
