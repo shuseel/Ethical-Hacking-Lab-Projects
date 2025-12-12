@@ -34,9 +34,17 @@ This project showed that cybersecurity is not the same as just finding problemsâ
 
 ### Project 1: Performing Passive Reconnaissance
 
-Tools Used: Google Dorks, Shodan, WHOIS, Maltego (open-source intelligence).
+An information-gathering technique known as "passive reconnaissance" involves the tools not interacting directly with the target device or network.
 
-Objective: Gather non-intrusive information without direct interaction.
+**Lab 1: Using USINT Tools**
+
+In this lab, I have explored several OSINT tools that are commonly used by pentesters. This includes the following:
+* Examining the different OSINT resources
+* Using SpiderFoot
+* Investigating with Recon-ng
+* Finding interesting files with Recon-ng
+
+**Lab Documentation:** [Lab 1: Using USINT Tools](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Lab%20-%20Using%20OSINT%20Tools.pdf) 
 
 ### Project 2: Performing Active Reconnaissance
 
