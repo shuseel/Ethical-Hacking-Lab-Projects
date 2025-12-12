@@ -48,11 +48,21 @@ In this lab, I have explored several OSINT tools that are commonly used by pente
 
 ### Project 2: Performing Active Reconnaissance
 
-Tools Used: Nmap, DNS enumeration tools (e.g., dig, nslookup).
+**Active reconnaissance** is a technique for obtaining information in which the instruments employed actually send enquiries to the target network or systems to elicit responses that are subsequently utilised to ascertain the network or system's condition.
 
-Objective: Map the target's network topology and identify live hosts.
+**Lab 1: Enumeration with Nmap**
 
+In this lab, I have learned the different types of Nmap scans and done a basic Nmap scan.
 
+**Lab 2: Packet Crafting with Scrapy**
+
+In this lab, I have learned how to investigate with the scapy tool, used scapy to sniff network traffic, create and send ICMP packets, and create and send TCP SYN packets.
+
+**Lab 3: Network Sniffing with Wireshark**
+
+In this lab, I have learned how to prepare the host to capture network traffic, capture and save network traffic, and view and analyze packet capture.
+
+**Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
 
 (...  other projects will be listed here)
 
