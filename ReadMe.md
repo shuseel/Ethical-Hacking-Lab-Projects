@@ -64,6 +64,32 @@ In this lab, I have learned how to prepare the host to capture network traffic, 
 
 **Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
 
+Phase 3: Vulnerability Analysis
+Lab 3.1: Service and Port Scanning
+
+Tools Used: Advanced Nmap scripting (NSE) and version detection.
+
+Objective: Identify running services and potential software vulnerabilities.
+
+Lab 3.2: Automated Vulnerability Scanning
+
+Tools Used: OpenVAS/Nessus (sample reports and configuration files).
+
+Objective: Learn to analyze and prioritize scanner output.
+
+Phase 4: Exploitation (Human & Client-Side)
+Lab 4.3: Credential Harvesting with SET
+
+Tools: SET (Social-Engineer Toolkit).
+
+Objective: Clone a corporate portal to capture simulated user credentials via a phishing link.
+
+Lab 4.4: Browser Hooking and Control with BeEF
+
+Tools: BeEF, Kali Linux.
+
+Objective: Demonstrate how a malicious script can "hook" a browser to execute commands and pivot into a private network.
+
 (...  other projects will be listed here)
 
 
