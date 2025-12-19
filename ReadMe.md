@@ -78,7 +78,7 @@ Social Engineering Toolkit (SET) can be used to launch numerous social engineeri
 
 Browser Exploitation Framework (BeEF) is an application that runs in the browser, which allows taking control of target browsers that visit a malicious web page created by the attacker. In this lab, I have learned to load the BeEF GUI Environment and hook the local browser to simulate a Client-Side Attack and Investigate the different capabilities of BeEF exploitation. 
 
-**Lab Documentation:** Documentation of Lab 1 and Lab 2
+**Lab Documentation:** [Documentation of Lab 1 and Lab 2](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/b3812419e5293b889dc970ee955a402d43174b12/Module%204%20-%20Social%20Engineering%20Attacks%20with%20SET%20and%20BeEF.pdf)
 
 ### Project 2: Exploiting Network-based vulnerabilities Using enum4linux and Ettercap
 
@@ -92,7 +92,7 @@ Enum4linux is a tool for enumerating information from Windows and Samba, which i
 
 An **On-Path Attack**, also known as a **Man-in-the-Middle (MitM)** attack, happens when an attacker secretly positions themselves between two communicating devices, such as a user's browser and a web server, to intercept, eavesdrop on, or alter their data flow, often by manipulating DNS or hijacking sessions between them. Ettercap is used to perform on-path (MITM) attacks. With this lab, I have practiced a common form of on-path attack using a Kali tool and also launched Ettercap and Explored Its Capabilities, performed the On-Path (MITM) Attack, and used Wireshark to observe the ARP Spoofing Attack.
 
-**Lab Documentation:** Documentation of Lab 1 and Lab 2
+**Lab Documentation:** [Documentation of Lab 1 and Lab 2](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/b3812419e5293b889dc970ee955a402d43174b12/Module%205%20-%20Exploiting%20Network%20Based%20Vulnerabilities%20enum4linux%20and%20Ettercap.pdf)
 
 (...  other projects will be listed here)
 
