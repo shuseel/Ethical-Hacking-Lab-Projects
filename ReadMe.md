@@ -27,11 +27,11 @@ Social engineering involves influence, interrogation, and impersonation to gain 
 - BeEF can be used to hook the target browser of a compromised user. Once hooked, the attacker has a command-and-control (C2) interface inside the user's browser.
  
 
-**Lab 1: Exploring the Social Engineer Toolkit (SET)**
+### **Lab 1: Exploring the Social Engineer Toolkit (SET)**
 
 Social Engineering Toolkit (SET) can be used to launch numerous social engineering attacks. In this lab, I have learned to launch SET and explore the toolkit, clone a website to obtain user credentials, and capture and view user credentials. 
 
-**Lab 2 - Using the Browser Exploitation Framework (BeEF)**
+### **Lab 2 - Using the Browser Exploitation Framework (BeEF)**
 
 Browser Exploitation Framework (BeEF) is an application that runs in the browser, which allows taking control of target browsers that visit a malicious web page created by the attacker. In this lab, I have learned to load the BeEF GUI Environment and hook the local browser to simulate a Client-Side Attack and Investigate the different capabilities of BeEF exploitation. 
 
@@ -53,11 +53,11 @@ Browser Exploitation Framework (BeEF) is an application that runs in the browser
 - Nmap can be used for Network auditing and inventory, Vulnerability assessment, penetration testing reconnaisance, firewall testing, and incident detection.
 - Wireshark can be used for network troubleshooting and viewing a "pcap" (packet capture) file for malware analysis. 
 
-**Lab 1 - Scanning for SMB Vulnerabilities with enum4linux**
+### **Lab 1 - Scanning for SMB Vulnerabilities with enum4linux**
 
 Enum4linux is a tool for enumerating information from Windows and Samba, which is an application that enables Linux and Apple clients to participate in Windows networks. With this lab, I have launched enum4linux and explored its capabilities, identified computers with SMB services running, used enum4linux to enumerate users and network file shares, and used smbclient to transfer files between systems.
 
-**Lab 2 – Performing On-Path Attacks with Ettercap**
+### **Lab 2 – Performing On-Path Attacks with Ettercap**
 
 An **On-Path Attack**, also known as a **Man-in-the-Middle (MitM)** attack, happens when an attacker secretly positions themselves between two communicating devices, such as a user's browser and a web server, to intercept, eavesdrop on, or alter their data flow, often by manipulating DNS or hijacking sessions between them. Ettercap is used to perform on-path (MITM) attacks. With this lab, I have practiced a common form of on-path attack using a Kali tool and also launched Ettercap and Explored Its Capabilities, performed the On-Path (MITM) Attack, and used Wireshark to observe the ARP Spoofing Attack.
 
