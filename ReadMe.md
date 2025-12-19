@@ -18,6 +18,15 @@ The concepts, tools, and techniques demonstrated in these labs are intended to b
 
 Social engineering involves influence, interrogation, and impersonation to gain information from victims without asking for it. A social engineering attack is a psychological manipulation technique used by cybercriminals to deceive people into giving up sensitive information or performing actions that compromise security.
 
+**Tools used in this Lab:**
+- Social Engineering Toolkit (SET) 
+- Browser Exploitation Framework (BeEF)
+
+**How are these tools used in real-world cybersecurity work?**
+- Red Teams use Social Engineering Toolkit (SET) to create credential harvesting websites. It can also embed "payloads" into the documents to be sent via email.
+- BeEF can be used to hook the target browser of a compromised user. Once hooked, the attacker has a command-and-control (C2) interface inside the user's browser.
+ 
+
 **Lab 1: Exploring the Social Engineer Toolkit (SET)**
 
 Social Engineering Toolkit (SET) can be used to launch numerous social engineering attacks. In this lab, I have learned to launch SET and explore the toolkit, clone a website to obtain user credentials, and capture and view user credentials. 
@@ -31,6 +40,18 @@ Browser Exploitation Framework (BeEF) is an application that runs in the browser
 ## Project 2: Exploiting Network-based vulnerabilities Using enum4linux and Ettercap
 
 **Network-based vulnerabilities** are weaknesses in a network's design, hardware, software, or human practices that attackers exploit for unauthorised access, data theft, or disruption, stemming from issues like unpatched systems, weak passwords, misconfigurations, insecure APIs, and social engineering, which require proactive patching, strong authentication, and segmentation to manage.
+
+**Tools used in these labs:**
+- Enum4linux
+- Nmap 
+- Ettercap
+- Wireshark
+
+**How are these tools used in real-world cybersecurity work?**
+- Enum4linux can pull a list of users, share names, and group memberships without needing a password if the system is misconfigured.
+- Ettercap can be used for ARP Poisoning and can also be used for capturing clear-text passwords.
+- Nmap can be used for Network auditing and inventory, Vulnerability assessment, penetration testing reconnaisance, firewall testing, and incident detection.
+- Wireshark can be used for network troubleshooting and viewing a "pcap" (packet capture) file for malware analysis. 
 
 **Lab 1 - Scanning for SMB Vulnerabilities with enum4linux**
 
