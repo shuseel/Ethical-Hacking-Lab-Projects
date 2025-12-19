@@ -30,7 +30,7 @@ This project showed that cybersecurity is not the same as just finding problemsâ
 - These boundaries should be established properly to ensure responsible research practices.
 
 
-## [Phase 2: Reconnaissance & Information Gathering](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/ReadMe.md)
+## [Phase 2: Reconnaissance, Information Gathering & Vulnerability Scanning](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/ReadMe.md)
 
 ### Project 1: Performing Passive Reconnaissance
 
