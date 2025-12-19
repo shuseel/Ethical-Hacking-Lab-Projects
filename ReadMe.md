@@ -1,4 +1,4 @@
-# Phase 2: Reconnaissance & Information Gathering
+# Phase 2: Reconnaissance, Information Gathering & Vulnerability Analysis
 
 ## Project 1: Performing Passive Reconnaissance
 
