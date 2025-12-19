@@ -52,11 +52,11 @@ In this lab, I have explored several OSINT tools that are commonly used by pente
 
 **Lab 1: Enumeration with Nmap**
 
-In this lab, I have learned the different types of Nmap scans and done a basic Nmap scan.
+In this lab, I learned about the different types of Nmap scans and performed a basic Nmap scan.
 
 **Lab 2: Packet Crafting with Scrapy**
 
-In this lab, I have learned how to investigate with the scapy tool, used scapy to sniff network traffic, create and send ICMP packets, and create and send TCP SYN packets.
+In this lab, I learned how to investigate using the Scapy tool, including sniffing network traffic, creating and sending ICMP packets, and creating and sending TCP SYN packets.
 
 **Lab 3: Network Sniffing with Wireshark**
 
@@ -64,31 +64,24 @@ In this lab, I have learned how to prepare the host to capture network traffic, 
 
 **Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
 
-Phase 3: Vulnerability Analysis
-Lab 3.1: Service and Port Scanning
+## Phase 3: Exploitation 
 
-Tools Used: Advanced Nmap scripting (NSE) and version detection.
+### Project 1: Performing Social Engineering Attacks With SET and BeEF
 
-Objective: Identify running services and potential software vulnerabilities.
+Social engineering involves influence, interrogation, and impersonation to gain information from victims without asking for it. A social engineering attack is a psychological manipulation technique used by cybercriminals to deceive people into giving up sensitive information or performing actions that compromise security.
 
-Lab 3.2: Automated Vulnerability Scanning
+**Lab 1: Exploring the Social Engineer Toolkit (SET)**
 
-Tools Used: OpenVAS/Nessus (sample reports and configuration files).
+Social Engineering Toolkit (SET) can be used to launch numerous social engineering attacks. In this lab, I have learned to launch SET and explore the toolkit, clone a website to obtain user credentials, and capture and view user credentials. 
 
-Objective: Learn to analyze and prioritize scanner output.
+**Lab 2 - Using the Browser Exploitation Framework (BeEF)**
 
-Phase 4: Exploitation (Human & Client-Side)
-Lab 4.3: Credential Harvesting with SET
+Browser Exploitation Framework (BeEF) is an application that runs in the browser, which allows taking control of target browsers that visit a malicious web page created by the attacker. In this lab, I have learned to load the BeEF GUI Environment and hook the local browser to simulate a Client-Side Attack and Investigate the different capabilities of BeEF exploitation. 
 
-Tools: SET (Social-Engineer Toolkit).
+**Lab Documentation:** Documentation of Lab 1 and Lab 2
 
-Objective: Clone a corporate portal to capture simulated user credentials via a phishing link.
+### Project 2: Exploiting Network-based vulnerabilities Using enum4linux and Ettercap
 
-Lab 4.4: Browser Hooking and Control with BeEF
-
-Tools: BeEF, Kali Linux.
-
-Objective: Demonstrate how a malicious script can "hook" a browser to execute commands and pivot into a private network.
 
 (...  other projects will be listed here)
 
