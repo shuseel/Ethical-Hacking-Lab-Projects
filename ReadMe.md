@@ -82,6 +82,17 @@ Browser Exploitation Framework (BeEF) is an application that runs in the browser
 
 ### Project 2: Exploiting Network-based vulnerabilities Using enum4linux and Ettercap
 
+**Network-based vulnerabilities** are weaknesses in a network's design, hardware, software, or human practices that attackers exploit for unauthorised access, data theft, or disruption, stemming from issues like unpatched systems, weak passwords, misconfigurations, insecure APIs, and social engineering, which require proactive patching, strong authentication, and segmentation to manage.
+
+**Lab 1 - Scanning for SMB Vulnerabilities with enum4linux**
+
+Enum4linux is a tool for enumerating information from Windows and Samba, which is an application that enables Linux and Apple clients to participate in Windows networks. With this lab, I have launched enum4linux and explored its capabilities, identified computers with SMB services running, used enum4linux to enumerate users and network file shares, and used smbclient to transfer files between systems.
+
+**Lab 2 – Performing On-Path Attacks with Ettercap**
+
+An **On-Path Attack**, also known as a **Man-in-the-Middle (MitM)** attack, happens when an attacker secretly positions themselves between two communicating devices, such as a user's browser and a web server, to intercept, eavesdrop on, or alter their data flow, often by manipulating DNS or hijacking sessions between them. Ettercap is used to perform on-path (MITM) attacks. With this lab, I have practiced a common form of on-path attack using a Kali tool and also launched Ettercap and Explored Its Capabilities, performed the On-Path (MITM) Attack, and used Wireshark to observe the ARP Spoofing Attack.
+
+**Lab Documentation:** Documentation of Lab 1 and Lab 2
 
 (...  other projects will be listed here)
 
