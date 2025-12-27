@@ -80,7 +80,7 @@ Greenbone Vulnerability Management (GVM), formerly known as OpenVAS, is a large,
 
 In this lab, I have learned how to scan a Host for finding vulnerabilities.
 
-**Documentation:**[**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
+**Documentation:** [**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
 
 ## Phase 3: Exploitation 
 
