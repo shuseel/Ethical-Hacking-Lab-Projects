@@ -64,6 +64,24 @@ In this lab, I have learned how to prepare the host to capture network traffic, 
 
 **Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
 
+### Project 3: Website Vulnerability Scanning with Nikto and GVM
+
+Website vulnerability scanning is an automated process that systematically examines a website or web application to identify security issues, technical flaws, or misconfigurations.
+
+**Lab 1: Website Vulnerability Scanning Nitkto**
+
+Nikto is a command-line, open-source tool created especially to identify web server vulnerabilities. It is well-known for being "noisy"—it doesn't attempt to conceal its presence, which makes it a great tool for determining whether your security measures, such as an intrusion detection system, are truly operational.
+
+In this lab, I have learned how to launch and perform a Basic Scan with Nikto, scan Multiple Web Servers Using Nitko, investigate the Website Vulnerabilities, and export Nikto Results to a File.
+
+**Lab 2: Website Vulnerability Scanning GVM**
+
+Greenbone Vulnerability Management (GVM), formerly known as OpenVAS, is a large, enterprise-level network vulnerability management system. It has a collection of services that collaborate to scan thousands of devices on a network with advanced features, in contrast to the lightweight Nikto.
+
+In this lab, I have learned how to scan a Host for finding vulnerabilities.
+
+[**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
+
 ## Phase 3: Exploitation 
 
 ### Project 1: Performing Social Engineering Attacks With SET and BeEF
