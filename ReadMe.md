@@ -73,7 +73,7 @@ In this lab, we will complete the following objectives:
  
  Here is the Lab Documentation of Lab 1 and Lab 2 with Key commands, payloads, and Screenshots:
 
-**Documentation of Lab 1 and Lab 2**
+[**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
 
 
 (...  other projects will be listed here)
