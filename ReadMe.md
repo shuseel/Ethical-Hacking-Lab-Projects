@@ -20,11 +20,11 @@ In this lab, I have explored several OSINT tools that are commonly used by pente
 
 ### **Lab 1: Enumeration with Nmap**
 
-In this lab, I have learned the different types of Nmap scans and done a basic Nmap scan.
+In this lab, I learned about the different types of Nmap scans and performed a basic Nmap scan.
 
 ### **Lab 2: Packet Crafting with Scrapy**
 
-In this lab, I have learned how to investigate with the scapy tool, used scapy to sniff network traffic, create and send ICMP packets, and create and send TCP SYN packets.
+In this lab, I learned how to investigate using the Scapy tool, including sniffing network traffic, creating and sending ICMP packets, and creating and sending TCP SYN packets.
 
 ### **Lab 3: Network Sniffing with Wireshark**
 
@@ -32,7 +32,7 @@ In this lab, I have learned how to prepare the host to capture network traffic, 
 
 **Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
 
-## Website Vulnerability Scanning with Nikto and GVM
+## Project 3: Website Vulnerability Scanning with Nikto and GVM
 
 Website vulnerability scanning is an automated process that systematically examines a website or web application to identify security issues, technical flaws, or misconfigurations.
 
@@ -51,11 +51,29 @@ In this lab, we will complete the following objectives:
 * Nikto 
 * National Vulnerability Database (https://nvd.nist.gov)
 
- **How are these tools used in real-world cybersecurity work?**
+ **Uses in the real-world cybersecurity work**
  * Nikto tool is often used as the first "noisy" scanning tool for vulnerability scanning of a web application. In a real-world engagement, we use this tool to test if a client's Intrusion Detection System (IDS) is actually working or not.
  * When the vulnerability scanning tool, such as GVM or Nikto, tells a server has a "CVE-2024-XXXX" vulnerability, we use the NVD to understand the impact of this vulnerability and to look up the Common Vulnerability Scoring System (CVSS) score.
 
- **Lab Documentation: Documentation with Key commands, payloads, and Screenshots**
+### **Lab 2: Website Vulnerability Scanning GVM**
+
+Greenbone Vulnerability Management (GVM), formerly known as OpenVAS, is a large, enterprise-level network vulnerability management system. It has a collection of services that collaborate to scan thousands of devices on a network with advanced features, in contrast to the lightweight Nikto.
+
+**Objectives**
+In this lab, we will complete the following objectives:
+* Scanning a Host for finding the Vulnerabilities
+
+**Tools used**
+* Greenbone Vulnerability Management (GVM)
+
+**Uses in the real-world cybersecurity work**
+* This tool is used by large organizations to perform Internal Vulnerability Assessments. GVM scans every IP address on the network—printers, laptops, servers, and IoT devices—to find its vulnerabilities. 
+
+ ### **Documentation of Lab 1 and Lab 2**
+ 
+ Here is the Lab Documentation of Lab 1 and Lab 2 with Key commands, payloads, and Screenshots:
+
+**Documentation of Lab 1 and Lab 2**
 
 
 (...  other projects will be listed here)
