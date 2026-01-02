@@ -41,6 +41,7 @@ Website vulnerability scanning is an automated process that systematically exami
 Nikto is a command-line, open-source tool created especially to identify web server vulnerabilities. It is well-known for being "noisy"—it doesn't attempt to conceal its presence, which makes it a great tool for determining whether your security measures, such as an intrusion detection system, are truly operational.
 
 **Objectives**
+
 In this lab, we will complete the following objectives:
 * Launching and Performing a Basic Scan with Nikto
 * Scanning Multiple Web Servers Using Nitko
@@ -60,6 +61,7 @@ In this lab, we will complete the following objectives:
 Greenbone Vulnerability Management (GVM), formerly known as OpenVAS, is a large, enterprise-level network vulnerability management system. It has a collection of services that collaborate to scan thousands of devices on a network with advanced features, in contrast to the lightweight Nikto.
 
 **Objectives**
+
 In this lab, we will complete the following objectives:
 * Scanning a Host for finding the Vulnerabilities
 
@@ -84,12 +86,13 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 Zed Attack Proxy (ZAP) is one of the most widely used free and open-source security solutions in the world. It is a dynamic web application vulnerability testing tool that was previously managed by an OWASP flagship project and is now managed by the [Software Security Project (SSP)](https://www.zaproxy.org/blog/2023-08-01-zap-is-joining-the-software-security-project/), which finds vulnerabilities in web applications while they are running. In this lab, we will conduct a vulnerability scan using the Zed Attack Proxy (ZAP).
 
 **Objectives**
+
 In this lab, we will complete the following objectives:
-•	Scan a Website Using ZAP 
-•	Investigate Vulnerability References
+* Scan a Website Using ZAP 
+*	Investigate Vulnerability References
 
 **Tools Used**
-•	Zed Attack Proxy (ZAP)
+*	Zed Attack Proxy (ZAP)
 
 **Uses in the real-world cybersecurity work**
 * ZAP can be used to perform automated vulnerability scanning along with deep-dive manual tests by intercepting a login request and bypassing the client site validation.
