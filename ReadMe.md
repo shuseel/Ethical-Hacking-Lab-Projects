@@ -81,7 +81,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 ### Lab 1: Website Vulnerability Scan Using OWASP ZAP
 
-Zed Attack Proxy (ZAP) is one of the most widely used free and open-source security solutions in the world. It is a dynamic web application vulnerability testing tool that was previously managed by an OWASP flagship project and is now managed by the Software Security Project (SSP)](https://www.zaproxy.org/blog/2023-08-01-zap-is-joining-the-software-security-project/), which finds vulnerabilities in web applications while they are running. In this lab, we will conduct a vulnerability scan using the Zed Attack Proxy (ZAP).
+Zed Attack Proxy (ZAP) is one of the most widely used free and open-source security solutions in the world. It is a dynamic web application vulnerability testing tool that was previously managed by an OWASP flagship project and is now managed by the [Software Security Project (SSP)](https://www.zaproxy.org/blog/2023-08-01-zap-is-joining-the-software-security-project/), which finds vulnerabilities in web applications while they are running. In this lab, we will conduct a vulnerability scan using the Zed Attack Proxy (ZAP).
 
 **Objectives**
 In this lab, we will complete the following objectives:
@@ -100,7 +100,7 @@ In this lab, we will complete the following objectives:
  
 Here is the Lab Documentation of Lab 1 with Key commands, payloads, and Screenshots:
 
-[**Documentation of Lab 1**]()
+[**Documentation of Lab 1**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/5d16a9f0b847e11347e3daeab9ebd0a51c0c22a0/Module%206%20-%20vulnerability%20scan%20using%20OWASP%20ZAP.pdf)
 
 (...  other projects will be listed here)
 
