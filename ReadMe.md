@@ -67,7 +67,7 @@ In this lab, we will complete the following objectives:
 * Greenbone Vulnerability Management (GVM)
 
 **Uses in the real-world cybersecurity work**
-* This tool is used by large organizations to perform Internal Vulnerability Assessments. GVM scans every IP address on the network—printers, laptops, servers, and IoT devices—to find its vulnerabilities. 
+* Large organizations use this tool to perform Internal Vulnerability Assessments. GVM scans every IP address on the network—printers, laptops, servers, and IoT devices—to find its vulnerabilities. 
 
  ### **Documentation of Lab 1 and Lab 2**
  
@@ -75,6 +75,32 @@ In this lab, we will complete the following objectives:
 
 [**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
 
+## Project 4: Web Application Vulnerability Scan Using OWASP ZAP
+
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that developed the Web Security Testing Guide (WSTG) to test the most common web application security issues. 
+
+### Lab 1: Website Vulnerability Scan Using OWASP ZAP
+
+Zed Attack Proxy (ZAP) is one of the most widely used free and open-source security solutions in the world. It is a dynamic web application vulnerability testing tool that was previously managed by an OWASP flagship project and is now managed by the Software Security Project (SSP)](https://www.zaproxy.org/blog/2023-08-01-zap-is-joining-the-software-security-project/), which finds vulnerabilities in web applications while they are running. In this lab, we will conduct a vulnerability scan using the Zed Attack Proxy (ZAP).
+
+**Objectives**
+In this lab, we will complete the following objectives:
+•	Scan a Website Using ZAP 
+•	Investigate Vulnerability References
+
+**Tools Used**
+•	Zed Attack Proxy (ZAP)
+
+**Uses in the real-world cybersecurity work**
+* ZAP can be used to perform automated vulnerability scanning along with deep-dive manual tests by intercepting a login request and bypassing the client site validation.
+* It can also be used in bug bounty hunting to find vulnerabilities in companies' web applications through bug bounty programs.
+* It may also be used to ensure that the web applications meet security standards like PCI DSS or SOC2.
+
+### **Documentation of Lab 1**
+ 
+Here is the Lab Documentation of Lab 1 with Key commands, payloads, and Screenshots:
+
+[**Documentation of Lab 1**]()
 
 (...  other projects will be listed here)
 
