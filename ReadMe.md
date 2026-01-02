@@ -5,7 +5,7 @@ A "Penetration Testing Agreement" is a contract that allows ethical hackers to t
 
 This project showed that cybersecurity is not the same as just finding problems—it's about finding them in the right and professional way.
 
-**sample_pentest_agreement:** [A Sample Penetration Testing Agreement](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/main/Sample-Penetration-Testing-Agreement-Shuseel.docx.pdf)
+**sample_pentest_agreement:** [A Sample Penetration Testing Agreement](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/ac2bb9ff70c7cac8dec016f90327ab35ce6690cd/Sample-Penetration-Testing-Agreement-Shuseel.docx.pdf)
 
 **What I learned:**
 - As per cybersecurity requirements, legal frameworks are equally important regarding technical skills.
