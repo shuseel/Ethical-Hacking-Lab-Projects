@@ -1,4 +1,4 @@
-# A Comprehensive Collection of Hands-on Ethical Hacking and Penetration Testing Labs
+# Final Capstone Activity for Ethical Hacking Program by CISCO
 This repository is dedicated to providing step-by-step lab exercises and documentation for the entire lifecycle of ethical hacking and penetration testing.  It functions as both a personal portfolio and an instructional resource for learning the tools, methodologies, and critical thinking skills required to become a successful cybersecurity expert.
 ## IMPORTANT: Ethical & Legal Disclaimer
 **This repository and its contents are strictly for educational and self-improvement purposes only.**
@@ -13,14 +13,13 @@ The concepts, tools, and techniques demonstrated in these labs are intended to b
 
 **By cloning or using this repository, you agree to these terms.**
 
-## [Phase 1: Pre-Engagement Activities](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-1-Pre-Engagement-Activities/ReadMe.md)
-### Project 1: Creating Penetration Testing Agreement
+## Introduction
 
-A "Penetration Testing Agreement" is a contract that allows ethical hackers to test systems while keeping everyone protected. Basically, it tells what can be tested, when to do it, how to do it, and what to do with penetration testing.
+## Objectives
 
-This project showed that cybersecurity is not the same as just finding problems—it's about finding them in the right and professional way.
+## Tools Used
 
-**sample_pentest_agreement:** [A Sample Penetration Testing Agreement](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/ac2bb9ff70c7cac8dec016f90327ab35ce6690cd/Sample-Penetration-Testing-Agreement-Shuseel.docx.pdf)
+## Documentation
 
 **What I learned:**
 - As per cybersecurity requirements, legal frameworks are equally important regarding technical skills.
@@ -30,99 +29,7 @@ This project showed that cybersecurity is not the same as just finding problems�
 - These boundaries should be established properly to ensure responsible research practices.
 
 
-## [Phase 2: Reconnaissance, Information Gathering & Vulnerability Scanning](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/ReadMe.md)
 
-### Project 1: Performing Passive Reconnaissance
-
-An information-gathering technique known as "passive reconnaissance" involves the tools not interacting directly with the target device or network.
-
-**Lab 1: Using USINT Tools**
-
-In this lab, I have explored several OSINT tools that are commonly used by pentesters. This includes the following:
-* Examining the different OSINT resources
-* Using SpiderFoot
-* Investigating with Recon-ng
-* Finding interesting files with Recon-ng
-
-**Lab Documentation:** [Lab 1: Using USINT Tools](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Lab%20-%20Using%20OSINT%20Tools.pdf) 
-
-### Project 2: Performing Active Reconnaissance
-
-**Active reconnaissance** is a technique for obtaining information in which the instruments employed actually send enquiries to the target network or systems to elicit responses that are subsequently utilised to ascertain the network or system's condition.
-
-**Lab 1: Enumeration with Nmap**
-
-In this lab, I learned about the different types of Nmap scans and performed a basic Nmap scan.
-
-**Lab 2: Packet Crafting with Scrapy**
-
-In this lab, I learned how to investigate using the Scapy tool, including sniffing network traffic, creating and sending ICMP packets, and creating and sending TCP SYN packets.
-
-**Lab 3: Network Sniffing with Wireshark**
-
-In this lab, I have learned how to prepare the host to capture network traffic, capture and save network traffic, and view and analyze packet capture.
-
-**Lab Documentation:** [Documentation of Lab 1, Lab 2, and Lab3](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/Phase-2-Reconnaissance-%26-Information-Gathering/Performing%20Active%20Reconnaissance%20with%20Nmap%20and%20Scapy.pdf)
-
-### Project 3: Website Vulnerability Scanning with Nikto and GVM
-
-Website vulnerability scanning is an automated process that systematically examines a website or web application to identify security issues, technical flaws, or misconfigurations.
-
-**Lab 1: Website Vulnerability Scanning Nitkto**
-
-Nikto is a command-line, open-source tool created especially to identify web server vulnerabilities. It is well-known for being "noisy"—it doesn't attempt to conceal its presence, which makes it a great tool for determining whether your security measures, such as an intrusion detection system, are truly operational.
-
-In this lab, I have learned how to launch and perform a Basic Scan with Nikto, scan Multiple Web Servers Using Nitko, investigate the Website Vulnerabilities, and export Nikto Results to a File.
-
-**Lab 2: Website Vulnerability Scanning GVM**
-
-Greenbone Vulnerability Management (GVM), formerly known as OpenVAS, is a large, enterprise-level network vulnerability management system. It has a collection of services that collaborate to scan thousands of devices on a network with advanced features, in contrast to the lightweight Nikto.
-
-In this lab, I have learned how to scan a Host for finding vulnerabilities.
-
-**Documentation:** [**Documentation of Lab 1 and Lab 2**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/f34c5f2eb7d5d62df29dbcc10fdf7c0ddfdfed18/Module%206%20-%20Website%20Vulnerability%20Scanning.pdf)
-
-### Project 4: Web Application Vulnerability Scan Using OWASP ZAP
-
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that developed the Web Security Testing Guide (WSTG) to test the most common web application security issues. 
-
-**Lab 1: Website Vulnerability Scan Using OWASP ZAP**
-
-Zed Attack Proxy (ZAP) is one of the most widely used free and open-source security solutions in the world. In this lab, I have learned how to conduct a vulnerability scan of any web application using the Zed Attack Proxy (ZAP), along with analyzing the report generated by the search.
-
-[**Documentation of Lab 1**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/5d16a9f0b847e11347e3daeab9ebd0a51c0c22a0/Module%206%20-%20vulnerability%20scan%20using%20OWASP%20ZAP.pdf)
-
-## Phase 3: Exploitation 
-
-### Project 1: Performing Social Engineering Attacks With SET and BeEF
-
-Social engineering involves influence, interrogation, and impersonation to gain information from victims without asking for it. A social engineering attack is a psychological manipulation technique used by cybercriminals to deceive people into giving up sensitive information or performing actions that compromise security.
-
-**Lab 1: Exploring the Social Engineer Toolkit (SET)**
-
-Social Engineering Toolkit (SET) can be used to launch numerous social engineering attacks. In this lab, I have learned to launch SET and explore the toolkit, clone a website to obtain user credentials, and capture and view user credentials. 
-
-**Lab 2 - Using the Browser Exploitation Framework (BeEF)**
-
-Browser Exploitation Framework (BeEF) is an application that runs in the browser, which allows taking control of target browsers that visit a malicious web page created by the attacker. In this lab, I have learned to load the BeEF GUI Environment and hook the local browser to simulate a Client-Side Attack and Investigate the different capabilities of BeEF exploitation. 
-
-**Lab Documentation:** [Documentation of Lab 1 and Lab 2](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/b3812419e5293b889dc970ee955a402d43174b12/Module%204%20-%20Social%20Engineering%20Attacks%20with%20SET%20and%20BeEF.pdf)
-
-### Project 2: Exploiting Network-based vulnerabilities Using enum4linux and Ettercap
-
-**Network-based vulnerabilities** are weaknesses in a network's design, hardware, software, or human practices that attackers exploit for unauthorised access, data theft, or disruption, stemming from issues like unpatched systems, weak passwords, misconfigurations, insecure APIs, and social engineering, which require proactive patching, strong authentication, and segmentation to manage.
-
-**Lab 1 - Scanning for SMB Vulnerabilities with enum4linux**
-
-Enum4linux is a tool for enumerating information from Windows and Samba, which is an application that enables Linux and Apple clients to participate in Windows networks. With this lab, I have launched enum4linux and explored its capabilities, identified computers with SMB services running, used enum4linux to enumerate users and network file shares, and used smbclient to transfer files between systems.
-
-**Lab 2 – Performing On-Path Attacks with Ettercap**
-
-An **On-Path Attack**, also known as a **Man-in-the-Middle (MitM)** attack, happens when an attacker secretly positions themselves between two communicating devices, such as a user's browser and a web server, to intercept, eavesdrop on, or alter their data flow, often by manipulating DNS or hijacking sessions between them. Ettercap is used to perform on-path (MITM) attacks. With this lab, I have practiced a common form of on-path attack using a Kali tool and also launched Ettercap and Explored Its Capabilities, performed the On-Path (MITM) Attack, and used Wireshark to observe the ARP Spoofing Attack.
-
-**Lab Documentation:** [Documentation of Lab 1 and Lab 2](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/b3812419e5293b889dc970ee955a402d43174b12/Module%205%20-%20Exploiting%20Network%20Based%20Vulnerabilities%20enum4linux%20and%20Ettercap.pdf)
-
-(...  other projects will be listed here)
 
 
 ### **License**
