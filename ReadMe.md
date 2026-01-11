@@ -18,7 +18,7 @@ The concepts, tools, and techniques demonstrated in these labs are intended to b
 
 ## Objectives
 
-The objectives of this Final Capstone Activity are to conduct a complete penetration test, starting with reconnaissance and then launching exploits against vulnerabilities. It also proposes the remediation for the exploits. This assessment was done in the form of a cybersecurity capture the flag exercise, which allows us to use our ethical hacking skills to locate files that contain flag values. In this project, we will use the tools to exploit vulnerabilities that were discovered while reaching the goal. 
+The objectives of this Final Capstone Activity are to conduct a complete penetration test, starting with reconnaissance and then launching exploits against vulnerabilities. It also proposes the remediation for the exploits. This assessment was conducted in the form of a cybersecurity capture-the-flag exercise, which enables us to utilize our ethical hacking skills to locate files containing flag values. In this project, we will use the tools to exploit vulnerabilities that were discovered while reaching the goal. 
 
 The following are the main objectives of this assessment.
 
@@ -27,9 +27,9 @@ The following are the main objectives of this assessment.
 * Exploiting the open Samba shares to access a flag file.
 * Analyzing a Wireshark capture file to find the location of a file containing flag information.
 
-  **Target networks:**
-  * Host: 10.5.5.0
-  * Network: 192.168.0.0/24
+**Target networks:**
+* Host: 10.5.5.0
+* Network: 192.168.0.0/24
 
 ## Tools Used
 The following tools were used while conducting the assessement.
@@ -44,6 +44,7 @@ The following tools were used while conducting the assessement.
 
 ### Challenge 1: SQL Injection
 In this challenge, I have exploited a vulnerable web application to retrieve database credentials.
+
 **Key steps performed:**
 * Identifying injectable input fields
 * Extracting user credentials via SQL Injection
@@ -52,6 +53,7 @@ In this challenge, I have exploited a vulnerable web application to retrieve dat
 
 ### Challenge 2: Web Server Misconfiguration
 In this challenge, I have exploited a directory listing that was enabled on the web server.
+
 **Key steps performed:**
 * Browsing exposed directories
 * Locating sensitive files
@@ -59,6 +61,7 @@ In this challenge, I have exploited a directory listing that was enabled on the 
   
 ### Challenge 3: SMB Share Exploitation
 In this challenge, I have scanned the internal network to discover the SMB services.
+
 **Key steps performed:**
 * Scanning the network for SMB services
 * Enumerating anonymous shares
@@ -67,6 +70,7 @@ In this challenge, I have scanned the internal network to discover the SMB servi
 
 ### Challenge 4: PCAP Analysis
 In this challenge, I have performed the network traffic analysis.
+
 **Key steps performed:**
 * Analyzing the captured network traffic using Wireshark
 * Identifying the sensitive data transmitted in clear text
