@@ -1,5 +1,8 @@
 # Final Capstone Activity for Ethical Hacking Program by CISCO
-This repository is dedicated to providing step-by-step lab exercises and documentation for the entire lifecycle of ethical hacking and penetration testing.  It functions as both a personal portfolio and an instructional resource for learning the tools, methodologies, and critical thinking skills required to become a successful cybersecurity expert.
+
+## Introduction
+This repository documents the completion of the Final Capstone Activity included within the Ethical Hacking program by CISCO, with the guidance of the instructors of ParoCyber. It's a hands-on penetration testing assessment modeled as a Capture The Flag (CTF) exercise. It functions as both a personal portfolio and an instructional resource for learning the tools, methodologies, and critical thinking skills required to become a successful cybersecurity expert.
+
 ## IMPORTANT: Ethical & Legal Disclaimer
 **This repository and its contents are strictly for educational and self-improvement purposes only.**
 
@@ -13,23 +16,35 @@ The concepts, tools, and techniques demonstrated in these labs are intended to b
 
 **By cloning or using this repository, you agree to these terms.**
 
-## Introduction
-
 ## Objectives
 
+The objectives of this Final Capstone Activity are to conduct a complete penetration test, starting with reconnaissance and then launching exploits against vulnerabilities. It also proposes the remediation for the exploits. This assessment was done in the form of a cybersecurity capture the flag exercise, which allows us to use our ethical hacking skills to locate files that contain flag values. In this project, we will use the tools to exploit vulnerabilities that were discovered while reaching the goal. 
+
+The following are the main objectives of this assessment.
+
+* Using SQL injection to find a flag file.
+* Using web server vulnerabilities to investigate directories and find a flag file.
+* Exploiting the open Samba shares to access a flag file.
+* Analyzing a Wireshark capture file to find the location of a file containing flag information.
+
+  **Target networks:**
+  * Host: 10.5.5.0
+  * Network: 192.168.0.0/24
+
 ## Tools Used
+The following tools were used while conducting the assessement.
+* Kali VM provided for the Ethical Hacker course
+* DVWA
+* Nmap
+* smbclient
+* Wireshark
+* Web Browser Developer Tools
 
 ## Documentation
 
-**What I learned:**
-- As per cybersecurity requirements, legal frameworks are equally important regarding technical skills.
-- Clear communication prevents further misunderstandings during security assessments. 
-- Proper documentation itself protects both clients and security professionals.
-- Researchers must surely set clear ethical limits before they start any testing work. 
-- These boundaries should be established properly to ensure responsible research practices.
+A complete documentation, including screenshots, processes, and steps from the preliminary setup, reconnaissance, exploitation, and finding the results by capturing the files.
 
-
-
+**Documentation:** [**Documentation with Screenshots, Processes, and Steps**]()
 
 
 ### **License**
