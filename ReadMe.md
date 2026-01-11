@@ -40,11 +40,44 @@ The following tools were used while conducting the assessement.
 * Wireshark
 * Web Browser Developer Tools
 
+## Challenges Completed
+
+### Challenge 1: SQL Injection
+In this challenge, I have exploited a vulnerable web application to retrieve database credentials.
+**Key steps performed:**
+* Identifying injectable input fields
+* Extracting user credentials via SQL Injection
+* Cracking hashed passwords
+* Using compromised credentials to access a protected system
+
+### Challenge 2: Web Server Misconfiguration
+In this challenge, I have exploited a directory listing that was enabled on the web server.
+**Key steps performed:**
+* Browsing exposed directories
+* Locating sensitive files
+* Retrieving the challenge flag
+  
+### Challenge 3: SMB Share Exploitation
+In this challenge, I have scanned the internal network to discover the SMB services.
+**Key steps performed:**
+* Scanning the network for SMB services
+* Enumerating anonymous shares
+* Accessing the unsecured SMB directories
+* Downloading and analyzing the flag files
+
+### Challenge 4: PCAP Analysis
+In this challenge, I have performed the network traffic analysis.
+**Key steps performed:**
+* Analyzing the captured network traffic using Wireshark
+* Identifying the sensitive data transmitted in clear text
+* Extracting the URLs, IP addresses, and exposed file contents
+* Retrieving final challenge flag 
+
 ## Documentation
 
 A complete documentation, including screenshots, processes, and steps from the preliminary setup, reconnaissance, exploitation, and finding the results by capturing the files.
 
-**Documentation:** [**Documentation with Screenshots, Processes, and Steps**]()
+**Documentation:** [**Documentation with Screenshots, Processes, and Steps**](https://github.com/shuseel/Ethical-Hacking-Lab-Projects/blob/22f8c067421ede7d995b7ae8ca96c628edd24eca/Final_Capstone_Activity__Instructor_Led__Student_version.pdf)
 
 
 ### **License**
